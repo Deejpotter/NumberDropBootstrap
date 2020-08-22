@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "sass --watch scss/main.scss:../css/bootstrap.css",
+    "start": "sass --watch scss/main.scss:../css/bootstrap.css",
     "compile": "sass scss/main.scss:../css/bootstrap.css"
   },
   "keywords": [],
