@@ -9,95 +9,88 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="NumberDropLogo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 142.63866 101.74825"
+   inkscape:export-ydpi="96.019699"
+   inkscape:export-xdpi="96.019699"
+   inkscape:export-filename="C:\xampp\htdocs\NumberDropBootstrap\Images\NumberDropLogo.png"
+   width="142.63866mm"
    height="101.74825mm"
-   width="142.63866mm">
+   viewBox="0 0 142.63866 101.74825"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="NumberDropLogo.svg">
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient886-7">
-      <stop
-         style="stop-color:#ffbe36;stop-opacity:1;"
-         offset="0"
-         id="stop890" />
-      <stop
-         style="stop-color:#ffbe36;stop-opacity:0;"
-         offset="1"
-         id="stop892" />
-    </linearGradient>
-    <linearGradient
-       osb:paint="gradient"
-       id="linearGradient878"
+       id="linearGradient886-7"
        inkscape:collect="always">
       <stop
-         id="stop874"
+         id="stop890"
          offset="0"
-         style="stop-color:#f3901f;stop-opacity:1;" />
+         style="stop-color:#ffbe36;stop-opacity:1;" />
       <stop
-         id="stop876"
+         id="stop892"
          offset="1"
-         style="stop-color:#f3901f;stop-opacity:0;" />
+         style="stop-color:#ffbe36;stop-opacity:0;" />
     </linearGradient>
-    <rect
-       id="rect835"
-       height="73.327377"
-       width="200.32738"
-       y="43.845238"
-       x="3.7797618" />
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="64.799126"
-       x2="175.73834"
-       y1="64.799126"
-       x1="33.099686"
-       id="linearGradient888"
-       xlink:href="#linearGradient886-7"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="40.892239"
-       x2="300.66522"
-       y1="40.892239"
-       x1="210.35411"
-       id="linearGradient906"
-       xlink:href="#linearGradient886-7"
-       inkscape:collect="always" />
+       id="linearGradient878"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#f3901f;stop-opacity:1;"
+         offset="0"
+         id="stop874" />
+      <stop
+         style="stop-color:#f3901f;stop-opacity:0;"
+         offset="1"
+         id="stop876" />
+    </linearGradient>
     <rect
        x="3.7797618"
        y="43.845238"
        width="200.32738"
        height="73.327377"
-       id="rect912" />
+       id="rect835" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886-7"
+       id="linearGradient888"
+       x1="33.099686"
+       y1="64.799126"
+       x2="175.73834"
+       y2="64.799126"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       id="rect912"
+       height="73.327377"
+       width="200.32738"
+       y="43.845238"
+       x="3.7797618" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     lock-margins="false"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="178.02342"
-     inkscape:cx="147.60711"
-     inkscape:zoom="0.98994949"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="296.09953"
+     inkscape:cy="210.3483"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     lock-margins="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -111,50 +104,40 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-33.099686,-49.825829)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-33.099686,-49.825829)">
     <text
-       y="0"
-       x="71.319328"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;white-space:pre;shape-inside:url(#rect835);fill:#f3901f;fill-opacity:1;stroke:none"
+       xml:space="preserve"
        id="text833"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;white-space:pre;shape-inside:url(#rect835);fill:#f3901f;fill-opacity:1;stroke:none;"
+       x="71.319328"
+       y="0"><tspan
          x="31.575686"
          y="79.277127"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle;fill:#f3901f;fill-opacity:1">Number</tspan></tspan></text>
-    <image
-       sodipodi:absref="C:\Users\deejp\Unity\Number Drop\Assets\_Sprites\DemoLetters\spin\100\0001.png"
-       xlink:href="../../../../Users/deejp/Unity/Number%20Drop/Assets/_Sprites/DemoLetters/spin/100/0001.png"
-       y="18.314461"
-       x="210.35411"
-       width="90.311111"
-       height="45.155556"
-       preserveAspectRatio="none"
-       id="image849"
-       style="fill:url(#linearGradient906);fill-opacity:1" />
     <text
-       transform="translate(-1.6036172,63.610148)"
-       xml:space="preserve"
-       id="text910"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;white-space:pre;shape-inside:url(#rect912);fill:#f3901f;fill-opacity:1;stroke:none"
+       y="0"
        x="71.319328"
-       y="0"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;white-space:pre;shape-inside:url(#rect912);fill:#f3901f;fill-opacity:1;stroke:none;"
+       id="text910"
+       xml:space="preserve"
+       transform="translate(-1.6036172,63.610148)"><tspan
          x="59.890236"
          y="79.277127"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle;fill:#f3901f;fill-opacity:1">Drop</tspan></tspan></text>
     <path
-       id="path924"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 66.550111,85.793518 C 67.88646,112.2532 67.35192,113.58955 67.35192,113.58955"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path924" />
     <path
-       id="path926"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.156993,87.664403 c 7.216277,28.865107 5.612657,31.270537 5.612657,31.270537"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path926" />
     <path
-       id="path928"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 132.56568,88.466212 c 9.35444,28.330568 8.01809,31.537808 8.01809,31.537808"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path928" />
   </g>
 </svg>

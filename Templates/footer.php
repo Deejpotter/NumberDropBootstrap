@@ -13,7 +13,7 @@
 						<i class="fab fa-facebook"></i>
 					</a>
 				</div>
-				<div class= "col-md text-right">
+				<div class= "col-md text-center">
 					<h3>Policies</h3>
 					<a href= "<?php echo $fileLevel ?>about/privacy-policy.php">Privacy policy</a>
 					<br>
@@ -23,6 +23,8 @@
 		</div>
 	</footer>
 	
+	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Modak&display=swap" rel="stylesheet">
 	<!-- Fontawesome -->
 	<script src="https://kit.fontawesome.com/bf89e65113.js" crossorigin="anonymous"></script>
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->

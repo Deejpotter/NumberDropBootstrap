@@ -8,7 +8,6 @@
     #GeneralClasses
     #Header
     #Footer
-    
 */
 
 /*--------------------------------------------------------- 
@@ -21,21 +20,21 @@
 ---------*/
 
 :root {
-  --main: #26BF66;
-  --light-accent: #59B7CC;
-  --dark-accent: #7A616C;
-  --light: #F4EFF2;
-  --dark: #181821;
+  --main: #FFB800;
+  --light-accent: #118AB2;
+  --dark-accent: #E6480F;
+  --light: #F7F7F2;
+  --dark: #090A0B;
 
-  --heading-font: 'Lemonada', cursive;
-  --body-font: 'Montserrat', sans-serif;
+  --heading-font: 'Lato', sans-serif;
+  --body-font: 'Modak', sans-serif;
 
   --bottom-margin: 0 0 15px 0;
   --bigger-margin: 0 0 30px 0;
-  --box-shadow: 4px 4px 8px 0px #18182133;
-  --box-shadow-top: 0 0 8px 0px #18182133;
-  --box-shadow-inset: inset 0px 1px 4px 1px  #181821;
-  --default-radius: 8px;
+  --box-shadow: 4px 4px 32px 0px #090A0B33;
+  --box-shadow-top: 0 0 8px 0px #090A0B33;
+  --box-shadow-inset: inset 0px 1px 4px 1px  #090A0B;
+  --default-radius: 2em;
 
 }
 
@@ -53,6 +52,11 @@
 /*---------
 #GeneralClasses
 ---------*/
+
+.shadow-radius {
+  box-shadow: var(--box-shadow);
+  border-radius: var(--default-radius);
+}
 
 .background {
   background-image: url("../images/white-waves.png");
@@ -104,6 +108,17 @@
 #Header
 ---------*/
 
+/* Resize the logo image */
 .navbar-brand img {
     height: 3rem;
+}
+
+
+/*---------
+#Footer
+---------*/
+
+/* Resize the logo image */
+#main-footer i {
+    font-size: 3rem;
 }
