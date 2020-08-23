@@ -1,5 +1,5 @@
 	 <!-- Main footer for every page -->
-     <footer id="main-footer" class= "py-3">	
+     <footer id="main-footer" class= "pt-5 pb-3">	
 		<div class="container">
 			<div class="row">
 				<div class= "col-md">

@@ -31,10 +31,10 @@
 				<div class="collapse navbar-collapse" id="collapsibleNavbar">
 					<ul class="navbar-nav nav-fill ml-auto">
 						<li class="nav-item">
-							<a class="btn btn-primary btn-sm" href="https://play.google.com/store/apps/details?id=com.DeejPotter.NumberDrop">Play on Mobile</a>
+							<a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.DeejPotter.NumberDrop">Play on mobile</a>
 						</li>
 						<li class="nav-item">
-							<a class="btn btn-primary btn-sm ml-1" href="">Play on the web</a>
+							<a class="btn btn-primary ml-1" href="">Play on the web</a>
 						</li>
 					</ul>
 				</div>
