@@ -1,6 +1,6 @@
 <?php 
 $fileLevel = "";
-$title = "Home";
+$title = "Number Drop | Catch all the numbers";
 include "./templates/header.php" 
 ?>
 
@@ -10,7 +10,7 @@ include "./templates/header.php"
 	<section class="jumbotron jumbotron-fluid bg-primary py-5">
 		<div class="container text-center">
 			<h1 class="display-3">Number Drop</h1>
-			<p class="lead">Catch all the numbers!</p>
+			<p class="lead">Catch all the numbers in this casual mobile and web game.</p>
 			<i class="fas fa-chevron-down"></i>
 		</div>
 	</section>
@@ -20,7 +20,7 @@ include "./templates/header.php"
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<h2>All about the game</h2>
+					<h2>All about Number Drop</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea aspernatur facilis libero repudiandae ipsa consequatur aliquam. Nemo ab numquam aut natus commodi, exercitationem adipisci, ut, possimus cupiditate labore eum impedit.</p>
 				</div>
 				<div class="col-4-sm">
